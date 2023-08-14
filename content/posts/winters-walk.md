@@ -26,10 +26,10 @@ poem: |-
 alignPoemLeft: false
 removePostcardPadding: false
 address: |-
-  Watch the Dog
   Winters Walk
-  Kearsney Parks
-  Dover UK
+  Watch the Dog
+  Winters Garden
+  UK
 stamp: /img/watch-the-dog-stamp-2a.png
 showStampInPreview: true
 author: Caroline Whitehouse

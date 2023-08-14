@@ -1,10 +1,6 @@
 ---
-title: Watch the Dog Winters Walk
-description: We reconnect with our faithful friend on a winter walk. The garden
-  in winter is quite bare, a few hellebores are flowering and some snowdrops are
-  beginning to show their green tips through the soil, the grass is supporting
-  an untold count of worm casts making it a muddy place to be. Time to explore
-  our beautiful parks.
+title: Winters Walk
+description: Wrap up warm for a winter walk.
 collection: Watch the Dog
 aspect: landscape
 image: /img/watch-the-dog-winter-new-1.jpg
@@ -28,6 +24,7 @@ poem: |-
   Hear the dog's playful bark
   excited for walks in the park.
 alignPoemLeft: false
+removePostcardPadding: false
 address: |-
   Watch the Dog
   Winters Walk
@@ -38,3 +35,4 @@ showStampInPreview: true
 author: Caroline Whitehouse
 date: 2023-02-05T08:00:48.372Z
 ---
+We reconnect with our faithful friend on a winter walk. The garden in winter is quite bare, a few hellebores are flowering and some snowdrops are beginning to show their green tips through the soil, the grass is supporting an untold count of worm casts making it a muddy place to be. Time to explore our beautiful parks.

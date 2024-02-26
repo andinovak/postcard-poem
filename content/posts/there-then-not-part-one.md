@@ -38,3 +38,5 @@ tags:
 ---
 The Goodwin Sands are sandbanks that shift and change, keeping their secrets hidden. 
 To visit is like stepping into a different dimension. To write about the sandbanks demanded so much more than a few lines. The poem is in three parts. This is part one.
+
+Find part two here -
